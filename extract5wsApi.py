@@ -44,6 +44,7 @@ def analyze():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=True)
+    #give the host if on running this file it doesn't give the by default url
 
 
 
